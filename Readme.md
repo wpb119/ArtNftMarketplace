@@ -46,6 +46,3 @@ Bidding with ERC20 token.
 
 # Market Fee
 3%
-
-# Live Site
-https://https://app.artdeco.community/
